@@ -1,6 +1,6 @@
 # expenses
 
-**Expense management App for Linux and Android.**
+💰 Expense Management App: Take control of your finances with our intuitive expense management app. Track your spending, set budgets, and visualize your financial trends effortlessly. Built with Flutter, this app offers a user-friendly interface for managing expenses on the go. Stay organized and make informed financial decisions. Start managing your money smarter today! 📊💸📈
 
 
 ![Screenshot from 2022-12-30 17-21-41](https://user-images.githubusercontent.com/77974484/210067607-84610680-5010-487d-bf1c-2c2c0b0d72a7.png)
